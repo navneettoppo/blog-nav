@@ -10,10 +10,8 @@ import '@/styles/paginate.css';
 
 export const metadata = {
   title: {
-    default: 'Navneet Toppo',
-    template: '%s | Navneet Toppo',
-    // default: 'Jihoo Kim',
-    // template: '%s | Jihoo Kim',
+    default: 'Jihoo Kim',
+    template: '%s | Jihoo Kim',
   },
 };
 
